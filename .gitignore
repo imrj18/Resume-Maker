@@ -1,0 +1,26 @@
+ECHO is on.
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+
+# Static files
+staticfiles/
