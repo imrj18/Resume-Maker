@@ -74,7 +74,3 @@ Your application will be accessible at `http://127.0.0.1:8000/`.
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to fork the repository and create a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
